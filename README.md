@@ -2,3 +2,4 @@
 test_automerge
  Test new
 New push
+Test push
