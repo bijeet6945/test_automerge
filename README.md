@@ -6,3 +6,4 @@ Test push
 Working
 Testing auto merge
 Test policy
+Branch protection
