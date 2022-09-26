@@ -4,3 +4,4 @@ test_automerge
 New push
 Test push
 Working
+Testing auto merge
